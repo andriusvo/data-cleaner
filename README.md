@@ -12,7 +12,7 @@ Welcome to the Turing Data Cleaner App! This project is a web application built 
 
 ## Preview live
 
-[Click here to preview](https://chatbot-a5jkxdvm6wburdsrkjeym3.streamlit.app/)
+[Click here to preview](https://data-cleaner-nwt8v3bhsnqgzxhu2tqnkw.streamlit.app/)
 
 ---
 
